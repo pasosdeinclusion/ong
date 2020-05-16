@@ -9285,6 +9285,9 @@ button.bg-dark:focus {
   .text-sm-center {
     text-align: center !important;
   }
+  .text-sm-justify {
+    text-align: justify !important;
+  }
 }
 
 @media (min-width: 768px) {
@@ -9296,6 +9299,9 @@ button.bg-dark:focus {
   }
   .text-md-center {
     text-align: center !important;
+  }
+  .text-md-justify {
+    text-align: justify !important;
   }
 }
 
@@ -9309,6 +9315,9 @@ button.bg-dark:focus {
   .text-lg-center {
     text-align: center !important;
   }
+  .text-lg-justify {
+    text-align: justify !important;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -9320,6 +9329,9 @@ button.bg-dark:focus {
   }
   .text-xl-center {
     text-align: center !important;
+  }
+  .text-xl-justify {
+    text-align: justify !important;
   }
 }
 
