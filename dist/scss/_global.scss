@@ -10,6 +10,10 @@ html {
   color: fade-out($white, .25);
 }
 
+.text-primary-75 {
+  color: fade-out($primary, .25);
+}
+
 // Custom horizontal rules
 hr.divider {
   max-width: 3.25rem;
