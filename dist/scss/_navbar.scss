@@ -33,10 +33,10 @@
     .navbar-nav {
       .nav-item {
         .nav-link {
-          color: fade-out($primary, .3);
+          color: fade-out($white, .3);
           padding: 0 1rem;
           &:hover {
-            color: $primary;
+            color: $white;
           }
         }
         &:last-child {
