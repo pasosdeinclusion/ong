@@ -1,6 +1,6 @@
-# Centro Mama Elba
+# Fundación Pasos de Inclusión
 
-Centro Mama Elba is a non-gubernamental organization based in Dominical Republic that tackles social and educational
+Fundación Pasos de Inclusión is a non-gubernamental organization based in the Dominical Republic that tackles social and educational
 issues in the disabled community.
 
 This is the source code if the website. If you'd like to add features or bug fixes to improve it, you can fork this Github repository and make pull request. Your contributions are welcome and I will be happy to check them when I have time. If you just want to make a similar website, you will want to clone this repository, customize and upload it to Heroku.
